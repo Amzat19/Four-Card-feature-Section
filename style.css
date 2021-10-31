@@ -100,7 +100,7 @@ h4 {
 @media only screen and (min-width: 900px){
     body {
         width: 1200px;
-        height: 400px;
+        height: 800px;
     }
 .supervisor, .Team-builder, .karma, .calculator {
     width: 370px;
